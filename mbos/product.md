@@ -1,5 +1,5 @@
 ---
 layout: page
-title: porduct/สินค้า
+title: product/สินค้า
 permalink: /product/
 ---
