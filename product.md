@@ -1,68 +1,20 @@
-<<<<<<< HEAD
+---
+layout: page
+title: product/สินค้า
+permalink: /product/
+---
 <h2> SOUND MILAN ตู้ลําโพง12นิ้ว, ตู้ไฟเบอร์12นิ้ว, ลําโพงบลูทูธ, ตู้ช่วยสอน, ตู้ลําโพงช่วยสอน, </h2>
-=======
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.0 -->
-<title>product/สินค้า | MBOS site</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="product/สินค้า" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/product/" />
-<meta property="og:url" content="http://localhost:4000/product/" />
-<meta property="og:site_name" content="MBOS site" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/product/","headline":"product/สินค้า","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="MBOS site" /></head>
-<body><header class="site-header" role="banner">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="/">MBOS site</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/product/">product/สินค้า</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">product/สินค้า</h1>
-  </header>
-
-  <div class="post-content">
-    <h2> SOUND MILAN ตู้ลําโพง12นิ้ว, ตู้ไฟเบอร์12นิ้ว, ลําโพงบลูทูธ, ตู้ช่วยสอน, ตู้ลําโพงช่วยสอน, </h2>
->>>>>>> a7aac84cdbeb11a94e7471856f392fea84ae0583
-<h3> รายละเอียดสินค้า SOUND MILAN ตู้ลำโพง12นิ้ว, ตู้ไฟเบอร์12นิ้ว, ลำโพงบลูทูธ, ตู้ช่วยสอน, ตู้ลำโพงช่วยสอน, ลำโพงตั้งพื้น, ลำโพงเคลื่อนที่, ลำโพงกลางแจ้ง มีล้อลาก มีบลทูธ มีFM เสียบไมค์ได้ เสียบขาตั้งได้ แถมฟรี ไมค์ลอย 2ตัว+ไมค์ลอยคาดหัว 1ตัว ชาร์จไฟเต็ม ใช้ได้ยาวนาน 6-7ชม.
-•
+<h3> รายละเอียดสินค้า</h3>
+SOUND MILAN ตู้ลำโพง12นิ้ว, ตู้ไฟเบอร์12นิ้ว, ลำโพงบลูทูธ, ตู้ช่วยสอน, ตู้ลำโพงช่วยสอน, ลำโพงตั้งพื้น, ลำโพงเคลื่อนที่, ลำโพงกลางแจ้ง มีล้อลาก มีบลทูธ มีFM เสียบไมค์ได้ เสียบขาตั้งได้ แถมฟรี ไมค์ลอย 2ตัว+ไมค์ลอยคาดหัว 1ตัว ชาร์จไฟเต็ม ใช้ได้ยาวนาน 6-7ชม.
 รองรับการอ่านไฟล์เพลง.mp3 ผ่านUSB , SD CARD
-•
 รองรับบลูทูธ เพื่อความสะดวกสบาย
-•
 มีช่อง Guiter In สำหรับใครที่ชื่นชอบการเล่นกีตาร์โปร่งไฟฟ้า
-•
 มีวิทยุ FM ในตัว สแกนหาคลื่นได้
-•
 มีหน้าจอDisplay
-•
 ชาร์จไฟ ใช้งานนอกสถานที่ได้
-•
 สามารถปรับ เบส และ แหลมได้
-•
 ตู้ไฟเบอร์ แข็งแรง ไม่ก๊องแก๊ง
-•
 เสียบไมค์ได้
-•
 มีรีโมทคอนโทรล
      ปฏิเสธไม่ได้เลย ว่าเดี๋ยวนี้ทำอะไร ก็ต้องมีลำโพงขยายเสียงมาเป็นตัวช่วยในการสื่อให้คนจำนวนมากได้ยิน ไม่ว่าจะเป็นครู อาจารย์ ก็นำมาเป็นตู้ช่วยสอนหนังสือให้นักเรียน ประชุม สัมมนา งานขึ้นบ้านใหม่ รับได้ทุกอย่าง หรือ จะเพื่อความบันเทิง เดินป่า เที่ยวดอย กับเพื่อนๆ จะเงียบๆก็เดี๋ยวจะเหงา ก็ต้องมีลำโพงเพื่อความบันเทิง มาแนวสปอร์ตด้วยล้อสีแดงตัดกับตู้สีดำ ทำให้ดูโฉบเฉี่ยวยิ่งขึ้น
      ฟังก์ชั่นต่างๆ ที่ใช้งานบ่อยๆเช่น วอลลุ่มเสียง วอลลุ่มไมค์ USB อยู่ด้านหน้าเพื่อความสะดวกเวลาใช้งาน และลำโพงตัวนี้ฟังก์ชั่นครอบคลุม อำนวยความสะดวกเต็มที่ ทั้งเสียบ USB ได้ SD CARD ได้ บลทูธได้ รวมถึงสามารถเสียบไมค์และยังปรับ ECHO ได้ ช่วยให้เสียงที่เราเปล่งผ่านไมค์มีความชัดมากขึ้น ยังมาพร้อมกับมือจับที่สามารถยืดได้และเก็บได้ และอีก1ฟังก์ชั่นเด็ก มีช่อง Guitar In สำหรับนักดนตรี ที่ชื่นชอบในการเล่นกีตาร์โปร่งไฟฟ้า สามารถเล่นกีตาร์ให้เสียงออกลำโพงได้เลย
@@ -76,40 +28,4 @@ S/N Ratio : 60dB
 Power Supply : AC110V-240V 50/60Hz
 DC input : 12V
 Built-in Battery
-Operating Range : 50M(line and sight area) </h3>
-<<<<<<< HEAD
-=======
-
-  </div>
-
-</article>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">MBOS site</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">MBOS site</li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/mbos"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">mbos</span></a></li><li><a href="https://www.twitter.com/mbos"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">mbos</span></a></li></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
-        <p></p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
-</body>
-
-</html>
->>>>>>> a7aac84cdbeb11a94e7471856f392fea84ae0583
+Operating Range : 50M(line and sight area)
