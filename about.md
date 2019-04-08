@@ -30,6 +30,7 @@ permalink: /about/
 
 
 ความไฝ่ฝัน : อยากไปเรียนต่อที่อเมริกา
+<a href="mailto:tactile.oabi@gmail.com">ติดต่อคนนี้</a>
 
 <h4>นายทศพร ดอนโพธิ์</h4>
 ชื่อเล่นบี เชื้อชาติไทย สัญชาติไทย
@@ -52,6 +53,7 @@ permalink: /about/
 
 ความไฝ่ฝัน : 
 
+<a href="mailto:tactiledev.bever@gmail.com">ติดต่อคนนี้</a>
 <h4>นายศุภณัฐ กลับกลาย</h4>
 ชื่อเล่นเซฟ เชื้อชาติไทย สัญชาติไทย
 
@@ -72,7 +74,7 @@ permalink: /about/
 
 
 ความใฝ่ฝัน : ได้ทำงานในบริษัทที่มีความมั่นคง
-
+<a href="mailto:tactiledev.supanat@gmail.com">ติดต่อคนนี้</a><br>
 <h4>นายจรูน มาฮามัด</h4>
 ชื่อเล่น แมน เชื้อชาติไทย สัญชาติไทย
 
@@ -92,3 +94,4 @@ permalink: /about/
 
 
 ความไฝ่ฝัน : อยากทำงานในตำแหน่งซาวด์เอ็นจิเนีย
+<a href="mailto:tactiledev.jaroon@gmail.com">ติดต่อคนนี้</a><br>
