@@ -26,5 +26,8 @@ Top SounD Processing DSP Chip Hi-end Wifi
 ไร้คู่แข่งเมื่อเทียบกันปอนด์ต่อปอนด์ เจ๋งจริง..!!
 " เทสเสียงให้ออกใช้หูฟังหรือตู้แอมป์เลยนะครับ " </h3>
 Operating Range : 50M line and sight areal<br>
+
 ราคา 2,399.00 THB
+[อ่านรีวิว](/mbos/rvt8)
+<a href="https://youtu.be/_N9klHxtrz4">ดูรีวิว</a><br> 	
 [สั่งซื้อผ่านลาซาด้า](https://www.lazada.co.th/products/w-king-t8-bluetooth-speaker-30-w-king-i247889744-s381731675.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1712952446!68531322618!!!pla-455884586383!c!455884586383!381731675!124052131&gclid=Cj0KCQjw4qvlBRDiARIsAHme6ouOeb29clXEveLxq0CQHMZrqXCoIa_W4e5-49JANgS8iqFUZ3Ak_JMaAszaEALw_wcB)
